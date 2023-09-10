@@ -6,7 +6,7 @@ A web application for flight inquiry that allows users to search and view flight
 <h2> Invalid Login page </h2> </br>
 ![lnvalid login page](https://github.com/ankitanjana23/Flight_Enquiry/assets/136179445/a3b4af91-56de-4aad-994f-a33ab18b7199)
 
-Flight Interface
+<b> Flight Interface </b>
 
 ![Flight Interface](https://github.com/ankitanjana23/Flight_Enquiry/assets/136179445/e15fbf38-4422-4430-94ef-5aff91407d10)
 
