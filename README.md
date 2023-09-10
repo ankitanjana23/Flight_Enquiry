@@ -13,7 +13,8 @@ A web application for flight inquiry that allows users to search and view flight
 
 <h2> Flight Interface </h2>
 <br>
-![Flight Interface](https://github.com/ankitanjana23/Flight_Enquiry/assets/136179445/9aadf101-77bb-4d25-b859-8d3110a91b76)
+
+![Flight Interface](https://github.com/ankitanjana23/Flight_Enquiry/assets/136179445/b5321054-5c0a-442b-9382-079868fc5317)
 
 
 <h2> List of Flight  </h2>
