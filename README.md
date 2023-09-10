@@ -1,9 +1,9 @@
 # Flight_Enquiry
 A web application for flight inquiry that allows users to search and view flight details, such as flight schedules, availability, no. of seats, arrival-departure time and many more advanced features. Technologies Used HTML,CSS,javaScript,Node.js and use Database: MySQL Workbench
-Login Page 
+<h2> Login Page  </h2>
 ![Login Page](https://github.com/ankitanjana23/Flight_Enquiry/assets/136179445/fe331d07-f62a-494d-ab7f-c2972c0c4421)
 
-Invalid Login page
+<h2> Invalid Login page </h2>
 ![lnvalid login page](https://github.com/ankitanjana23/Flight_Enquiry/assets/136179445/a3b4af91-56de-4aad-994f-a33ab18b7199)
 
 Flight Interface
